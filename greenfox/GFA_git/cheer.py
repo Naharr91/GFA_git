@@ -1,5 +1,6 @@
-def cheer(str):
+def cheer(str, name):
     str = "Python"
-    print(str)
+    name = "kompeet"
+    print(str, name)
 
-# cheer(str)
+
