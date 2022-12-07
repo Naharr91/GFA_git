@@ -1,2 +1,3 @@
-def hello(name):
-    print("Hello, " + name)
+def hello(hi):
+    hi = "Greetings!"
+    print(hi)
