@@ -1,5 +1,5 @@
 def cheer(str):
     str = "Python"
-    print(str)
+    print("Cheer for the " + str)
 
 # cheer(str)
